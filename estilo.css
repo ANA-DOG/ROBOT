@@ -1,0 +1,184 @@
+body{
+    background-color: black;
+}
+.box1{
+    background-color: greenyellow;
+    height: 50px; width: 50px;
+    position: absolute;
+    left: 680px; top: 10px;
+    border-radius: 50%;
+}
+.box2{
+    background-color: blue;
+    height: 50px; width: 10px;
+    position: absolute;
+    left: 700px; top: 60px; 
+}
+.box3{
+    background-color: orange;
+    height: 200px; width: 200px;
+    position: relative;
+    left: 600px; top: 100px;
+}
+.box3-1{
+    background-color: rebeccapurple;
+    height: 50px; width: 50px;
+    position: absolute;
+    top: 40px; left: 30px;
+}
+.box3-1-1{
+    background-color: black;
+    height: 20px; width: 20px;
+    position: absolute;
+    top: 15px; left: 15px;
+}
+.box3-2{
+    background-color: rebeccapurple;
+    height: 50px; width: 50px;
+    position: absolute;
+    top: 40px; left: 120px;
+}
+.box3-2-1{
+    background-color: black;
+    height: 20px; width: 20px;
+    position: absolute;
+    top: 15px; left: 15px;
+}
+.box3-3{
+    background-color: greenyellow;
+    height: 50px; width: 50px;
+    position: absolute;
+    left: 75px; top: 100px;
+    border-radius: 50%;
+}
+.box3-4{
+    background-color: pink;
+    height: 20px; width: 120px;
+    position: absolute;
+    top: 160px; left: 40px;
+}
+.box3-4-1{
+    background-color: purple;
+    height: 10px; width: 80px;
+    position: absolute;
+    top: 5px; left: 22px;
+}
+.box4{
+    background-color: greenyellow;
+    height: 80px; width: 80px;
+    position: absolute;
+    left: 530px; top: 150px;
+    border-radius: 50%;
+}
+.box5{
+    background-color: greenyellow;
+    height: 80px; width: 80px;
+    position: absolute;
+    left: 805px; top: 150px;
+    border-radius: 50%;
+}
+.box6{
+    background-color: orange;
+    height: 50px; width: 40px;
+    position: absolute;
+    left: 690px; top: 300px;
+}
+.box7{
+    background-color: orange;
+    height: 200px; width: 200px;
+    position: relative;
+    left: 600px; top: 140px;
+}
+.box7-1{
+    background-color: greenyellow;
+    height: 80px; width: 180px;
+    position: absolute;
+    left: 10px; top: 20px;
+}
+.box7-2{
+    background-color: greenyellow;
+    height: 80px; width: 180px;
+    position: absolute;
+    left: 10px; top: 110px;
+}
+.box8{
+    background-color: orange;
+    height: 20px; width: 150px;
+    position: absolute;
+    left: 635px; top: 548px;
+}
+.box9{
+    background-color: orange;
+    height: 130px; width: 230px;
+    position: absolute;
+    left: 595px; top: 568px;
+}
+.box9-1{
+    background-color: greenyellow;
+    height: 100px; width: 60px;
+    position: absolute;
+    left: 20px; top: 20px;
+}
+.box9-2{
+    background-color: greenyellow;
+    height: 100px; width: 60px;
+    position: absolute;
+    left: 90px; top: 20px;
+}
+.box9-3{
+    background-color: greenyellow;
+    height: 100px; width: 60px;
+    position: absolute;
+    left: 160px; top: 20px;
+}
+.box10{
+    background-color: blue;
+    height: 150px; width: 10px;
+    position: absolute;
+    transform: rotate(-55deg);
+    left: 540px; top: 300px;
+}
+.box11{
+    background-color: blue;
+    height: 40px; width: 10px;
+    position: absolute;
+    transform: rotate(65deg);
+    left: 460px; top: 320px;
+}
+.box12{
+    background-color: blue;
+    height: 40px; width: 10px;
+    position: absolute;
+    transform: rotate(-20deg);
+    left: 475px; top: 300px;
+}
+.box13{
+    background-color: blue;
+    height: 150px; width: 10px;
+    position: absolute;
+    transform: rotate(55deg);
+    left: 866px; top: 300px;    
+}.box14{
+    background-color: blue;
+    height: 40px; width: 10px;
+    position: absolute;
+    transform: rotate(20deg);
+    left: 930px; top: 300px;
+    
+}.box15{
+    background-color: blue;
+    height: 40px; width: 10px;
+    position: absolute;
+    transform: rotate(90deg);
+    left: 945px; top: 316px;
+}
+.hecho{
+    position: absolute;
+    top: 180px; left: 300px;
+    background-color: gold;
+}
+.propietario{
+    position: absolute;
+    background-image: linear-gradient(to right top, #ffffff, #e4daf8, #cfb5ed, #bf8edd, #b463c9, #a067d8, #836de6, #5873f3, #009fff, #00c2ff, #00e1ff, #5ffbf1);
+    top: 220px; left: 220px;
+}
